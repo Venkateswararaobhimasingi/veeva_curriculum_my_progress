@@ -36,6 +36,27 @@ Each update reflects the work done **on that specific day**.
 
 ---
 
+# progress
+
+---
+
+## jira progress
+
+- Day 1 – 26/12/2025 : Jira Basics & Fundamentals
+- Day 2 – 27/12/2025 : Agile, Scrum & Kanban
+- Day 3 – 28/12/2025 : Issue Management, Releases & JQL
+- Day 4 – 29/12/2025 : Dashboards, Workflows & Roles
+- Day 5 – 30/12/2025 : Jira Automation
+
+---
+
+## xray progress
+
+- Day 1 – 01/01/2026 : XRAY FUNDAMENTALS
+- Day 2 – 02/01/2026 : XRAY SETUP & CONFIGURATION and MANUAL TEST CASE MANAGEMENT
+  
+---
+
 ## 🚀 Commitment
 
 This repository represents my commitment to:
