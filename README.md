@@ -54,6 +54,7 @@ Each update reflects the work done **on that specific day**.
 
 - Day 1 – 01/01/2026 : XRAY FUNDAMENTALS
 - Day 2 – 02/01/2026 : XRAY SETUP & CONFIGURATION and MANUAL TEST CASE MANAGEMENT
+- Day 3 - XRAY ADVANCED FEATURES
   
 ---
 
