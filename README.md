@@ -56,6 +56,7 @@ Each update reflects the work done **on that specific day**.
 - Day 2 – 02/01/2026 : XRAY SETUP & CONFIGURATION and MANUAL TEST CASE MANAGEMENT
 - Day 3 - 03/01/2026 : XRAY ADVANCED FEATURES
 - Day 4 – 04/01/2026 : XRAY TRACEABILITY, REPORTING & DOCUMENTATION
+- Day 5 - 05/01/2026 : Basics of BDD steps in xray and explore the Generic tests and Cucumber tests
   
 ---
 
