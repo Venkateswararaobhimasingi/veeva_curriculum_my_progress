@@ -29,7 +29,7 @@ From this date onward, all my learning activities, practice tasks, notes, and pr
 - Day 4 – 04/01/2026 : XRAY TRACEABILITY, REPORTING & DOCUMENTATION
 - Day 5 - 05/01/2026 : Basics of BDD steps in xray and explore the Generic tests and Cucumber tests
 - Day 6 - 06/01/2026 : A task on jira and xray title is login task
-  
+
 ---
 
 ## 🎯 Purpose of This Repository
