@@ -11,7 +11,7 @@ From this date onward, all my learning activities, practice tasks, notes, and pr
 
 ---
 
-## jira progress
+## Jira progress
 
 - Day 1 – 26/12/2025 : Jira Basics & Fundamentals
 - Day 2 – 27/12/2025 : Agile, Scrum & Kanban
@@ -21,7 +21,7 @@ From this date onward, all my learning activities, practice tasks, notes, and pr
 
 ---
 
-## xray progress
+## Xray progress
 
 - Day 1 – 01/01/2026 : XRAY FUNDAMENTALS
 - Day 2 – 02/01/2026 : XRAY SETUP & CONFIGURATION and MANUAL TEST CASE MANAGEMENT
@@ -35,6 +35,7 @@ From this date onward, all my learning activities, practice tasks, notes, and pr
 ## TestRail progress
 - Day 1 - 14/01/2026 : TESTRAIL FUNDAMENTALS
 
+---
 ## 🎯 Purpose of This Repository
 
 - Track my **daily learning progress**
