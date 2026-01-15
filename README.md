@@ -33,9 +33,12 @@ From this date onward, all my learning activities, practice tasks, notes, and pr
 ---
 
 ## TestRail progress
-- Day 1 - 14/01/2026 : TESTRAIL FUNDAMENTALS
 
+- Day 1 - 14/01/2026 : TESTRAIL FUNDAMENTALS
+- Day 2 - 15/01/2026 : Advanced Features in TestRail
+  
 ---
+
 ## 🎯 Purpose of This Repository
 
 - Track my **daily learning progress**
