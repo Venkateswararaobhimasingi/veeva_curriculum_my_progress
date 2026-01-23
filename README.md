@@ -36,6 +36,7 @@ From this date onward, all my learning activities, practice tasks, notes, and pr
 
 - Day 1 - 14/01/2026 : TESTRAIL FUNDAMENTALS
 - Day 2 - 15/01/2026 : Advanced Features in TestRail
+- Day 3 - 16/01/2026 : TestRail & Jira: Integration & Traceability
   
 ---
 
