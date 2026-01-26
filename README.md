@@ -40,6 +40,15 @@ From this date onward, all my learning activities, practice tasks, notes, and pr
   
 ---
 
+## Confluence progress
+
+- Day 1 - 20/01/2026 : Confluence Introduction & Basics
+- Day 2 - 21/01/2026 : Spaces and Page Creation
+- Day 3 - 22/01/2026 : Formatting, Macros, and Collaboration
+- Day 4 - 23/01/2026 : Permissions, Templates, and Advanced Confluence
+
+---
+
 ## 🎯 Purpose of This Repository
 
 - Track my **daily learning progress**
