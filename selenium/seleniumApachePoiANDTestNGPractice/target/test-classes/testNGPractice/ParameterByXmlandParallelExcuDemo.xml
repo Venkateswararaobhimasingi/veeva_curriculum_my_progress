@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="ParameterByXmlandParallelExcuDemo" parallel="tests">
+	<test name="parametere">
+	<parameter name="username" value="Admin"></parameter>
+	<parameter name="passwd" value="admin123"></parameter>
+		<classes>
+		<class name="testngPractice.ParameterByXmlandParallelExcuDemo"></class>
+		
+		</classes>
+	</test>
+	
+	<test name="parameteres">
+	<parameter name="username" value="Admin"></parameter>
+	<parameter name="passwd" value="admin123"></parameter>
+		<classes>
+		<class name="testngPractice.ParameterByXmlandParallelExcuDemo"></class>
+		
+		</classes>
+	</test>
+	
+</suite>

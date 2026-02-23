@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="testsuite">
+	<test name="beforetest">
+	
+		<classes>
+		<class name="testngPractice.AnnotationdemoTest1Practice"></class>
+		<class name="testngPractice.AnnotationdemoTest2Practice"></class>
+		<class name="testngPractice.AnnotationdemoSuitePractice"></class>
+		</classes>
+	</test>
+	<test name="aftertest">
+	
+		<classes>
+		<class name="testngPractice.AnnotationdemoTest1Practice"></class>
+		<class name="testngPractice.AnnotationdemoTest2Practice"></class>
+		<class name="testngPractice.AnnotationdemoSuitePractice"></class>
+		</classes>
+	</test>
+</suite>

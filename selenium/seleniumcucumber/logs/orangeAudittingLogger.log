@@ -1,0 +1,139 @@
+12:55:37.220 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+12:57:01.461 [main] INFO  stepDefinitions.BaseClass - === url open ====
+12:57:20.440 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+12:57:23.902 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+12:57:24.107 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+12:57:27.078 [main] INFO  stepDefinitions.BaseClass -  === login successful
+12:57:27.082 [main] INFO  stepDefinitions.BaseClass - === Clicking on Admin sidebar ====
+12:57:29.349 [main] INFO  stepDefinitions.BaseClass - === Clicking on Add button under User Management ===
+12:57:31.316 [main] INFO  stepDefinitions.BaseClass - === Selecting User Role: ESS
+12:57:32.837 [main] INFO  stepDefinitions.BaseClass - ===  Selecting Status: Enabled
+12:57:33.169 [main] INFO  stepDefinitions.BaseClass - Entering Employee Name: FName Mname LName and Username: Demo21234321
+12:57:38.522 [main] INFO  stepDefinitions.BaseClass - Entering details false
+14:04:45.897 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+14:05:19.452 [main] INFO  stepDefinitions.BaseClass - === url open ====
+14:06:50.324 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+14:06:54.816 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+14:06:55.002 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+14:06:58.726 [main] INFO  stepDefinitions.BaseClass -  === login successful
+14:06:58.734 [main] INFO  stepDefinitions.BaseClass - === Clicking on Admin sidebar ====
+14:07:00.839 [main] INFO  stepDefinitions.BaseClass - === Clicking on Add button under User Management ===
+14:07:05.202 [main] INFO  stepDefinitions.BaseClass - === Selecting User Role: ESS
+14:07:06.681 [main] INFO  stepDefinitions.BaseClass - ===  Selecting Status: Enabled
+14:07:07.012 [main] INFO  stepDefinitions.BaseClass - Entering Employee Name: profile emp name  and Username: Demo21234321
+14:07:12.505 [main] INFO  stepDefinitions.BaseClass - Entering details true
+14:07:12.510 [main] INFO  stepDefinitions.BaseClass - Entering password and confirm password
+14:07:12.828 [main] INFO  stepDefinitions.BaseClass - Clicking on Save button
+14:07:15.687 [main] INFO  stepDefinitions.BaseClass - Success message displayed: Successfully Saved
+14:07:15.687 [main] INFO  stepDefinitions.BaseClass - User added successfully - Test Passed
+14:07:15.689 [main] INFO  stepDefinitions.BaseClass - ===  browser close  ===
+14:40:25.953 [main] INFO  stepDefinitions.BaseClass - ========== START SCENARIO: Adding users to the orange demo website ==========
+14:40:25.974 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+14:40:30.126 [main] INFO  stepDefinitions.BaseClass - === url open ====
+14:41:34.087 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+14:41:36.251 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+14:41:38.829 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+14:41:39.655 [main] INFO  stepDefinitions.BaseClass -  === login successful
+14:41:39.661 [main] INFO  stepDefinitions.BaseClass - === Clicking on Admin sidebar ====
+14:41:42.625 [main] INFO  stepDefinitions.BaseClass - === Clicking on Add button under User Management ===
+14:41:44.444 [main] INFO  stepDefinitions.BaseClass - === Selecting User Role: ESS
+14:41:45.509 [main] INFO  stepDefinitions.BaseClass - ===  Selecting Status: Enabled
+14:41:45.793 [main] INFO  stepDefinitions.BaseClass - Entering Employee Name: profile emp name  and Username: Demo21234321
+14:41:51.316 [main] INFO  stepDefinitions.BaseClass - Entering details true
+14:41:51.320 [main] INFO  stepDefinitions.BaseClass - Entering password and confirm password
+14:41:51.614 [main] INFO  stepDefinitions.BaseClass - Clicking on Save button
+14:41:54.476 [main] INFO  stepDefinitions.BaseClass - Success message displayed: Successfully Saved
+14:41:54.476 [main] INFO  stepDefinitions.BaseClass - User added successfully - Test Passed
+14:41:54.478 [main] INFO  stepDefinitions.BaseClass - ===  browser close  ===
+14:41:55.053 [main] INFO  stepDefinitions.BaseClass - ========== END SCENARIO: Adding users to the orange demo website | STATUS: PASSED ==========
+14:44:11.737 [main] INFO  stepDefinitions.BaseClass - ========== START SCENARIO: successfully login in the orange demo website ==========
+14:44:11.759 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+14:44:14.673 [main] INFO  stepDefinitions.BaseClass - === url open ====
+14:45:31.314 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+14:45:35.009 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+14:45:35.203 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+14:45:37.905 [main] INFO  stepDefinitions.BaseClass -  === login successful
+14:45:37.912 [main] INFO  stepDefinitions.BaseClass - === click on profile ===
+14:45:38.100 [main] INFO  stepDefinitions.BaseClass - === click on logout === 
+14:45:42.961 [main] INFO  stepDefinitions.BaseClass - ===  logout done ===
+14:45:42.962 [main] INFO  stepDefinitions.BaseClass - ===  browser close  ===
+14:45:43.640 [main] INFO  stepDefinitions.BaseClass - ========== END SCENARIO: successfully login in the orange demo website | STATUS: PASSED ==========
+16:43:31.075 [main] INFO  stepDefinitions.BaseClass - ========== START SCENARIO: successfully login in the orange demo website ==========
+16:43:31.089 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+16:43:39.071 [main] INFO  stepDefinitions.BaseClass - === url open ====
+16:43:52.240 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+16:43:58.708 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+16:44:01.343 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+16:44:02.203 [main] INFO  stepDefinitions.BaseClass -  === login successful
+16:44:02.210 [main] INFO  stepDefinitions.BaseClass - === click on profile ===
+16:44:02.357 [main] INFO  stepDefinitions.BaseClass - === click on logout === 
+16:44:09.423 [main] INFO  stepDefinitions.BaseClass - ===  logout done ===
+16:44:09.425 [main] INFO  stepDefinitions.BaseClass - ===  browser close  ===
+17:11:07.550 [main] INFO  stepDefinitions.BaseClass - ========== START SCENARIO: Adding users to the orange demo website ==========
+17:11:07.589 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+17:11:11.168 [main] INFO  stepDefinitions.BaseClass - === url open ====
+17:11:16.223 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+17:11:17.446 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+17:11:17.637 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+17:11:20.329 [main] INFO  stepDefinitions.BaseClass -  === login successful
+17:11:20.335 [main] INFO  stepDefinitions.BaseClass - === Clicking on Admin sidebar ====
+17:11:22.163 [main] INFO  stepDefinitions.BaseClass - === Clicking on Add button under User Management ===
+17:11:23.894 [main] INFO  stepDefinitions.BaseClass - === Selecting User Role: ESS
+17:11:24.953 [main] INFO  stepDefinitions.BaseClass - ===  Selecting Status: Enabled
+17:11:25.307 [main] INFO  stepDefinitions.BaseClass - Entering Employee Name: profile emp name  and Username: Demo21234321
+17:11:30.777 [main] INFO  stepDefinitions.BaseClass - Entering details false
+17:18:00.684 [main] INFO  stepDefinitions.BaseClass - ========== START SCENARIO: Adding users to the orange demo website ==========
+17:18:00.722 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+17:18:04.050 [main] INFO  stepDefinitions.BaseClass - === url open ====
+17:18:12.080 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+17:18:13.378 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+17:18:13.572 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+17:18:16.336 [main] INFO  stepDefinitions.BaseClass -  === login successful
+17:18:16.342 [main] INFO  stepDefinitions.BaseClass - === Clicking on Admin sidebar ====
+17:18:18.043 [main] INFO  stepDefinitions.BaseClass - === Clicking on Add button under User Management ===
+17:18:19.993 [main] INFO  stepDefinitions.BaseClass - === Selecting User Role: ESS
+17:18:21.139 [main] INFO  stepDefinitions.BaseClass - ===  Selecting Status: Enabled
+17:18:21.481 [main] INFO  stepDefinitions.BaseClass - Entering Employee Name: profile emp name  and Username: Demo21234321
+17:18:27.169 [main] INFO  stepDefinitions.BaseClass - Entering details false
+17:19:32.339 [main] INFO  stepDefinitions.BaseClass - ========== START SCENARIO: Adding users to the orange demo website ==========
+17:19:32.374 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+17:19:35.186 [main] INFO  stepDefinitions.BaseClass - === url open ====
+17:19:43.956 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+17:19:45.305 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+17:19:45.479 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+17:19:48.065 [main] INFO  stepDefinitions.BaseClass -  === login successful
+17:19:48.073 [main] INFO  stepDefinitions.BaseClass - === Clicking on Admin sidebar ====
+17:19:49.743 [main] INFO  stepDefinitions.BaseClass - === Clicking on Add button under User Management ===
+17:19:51.731 [main] INFO  stepDefinitions.BaseClass - === Selecting User Role: ESS
+17:19:52.770 [main] INFO  stepDefinitions.BaseClass - ===  Selecting Status: Enabled
+17:19:53.143 [main] INFO  stepDefinitions.BaseClass - Entering Employee Name: profile emp name  and Username: Demo21234321
+17:19:58.682 [main] INFO  stepDefinitions.BaseClass - Entering details false
+17:20:53.988 [main] INFO  stepDefinitions.BaseClass - ========== START SCENARIO: Adding users to the orange demo website ==========
+17:20:54.021 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+17:20:56.956 [main] INFO  stepDefinitions.BaseClass - === url open ====
+17:21:05.115 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+17:21:06.903 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+17:21:07.082 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+17:21:09.895 [main] INFO  stepDefinitions.BaseClass -  === login successful
+17:21:09.901 [main] INFO  stepDefinitions.BaseClass - === Clicking on Admin sidebar ====
+17:21:11.760 [main] INFO  stepDefinitions.BaseClass - === Clicking on Add button under User Management ===
+17:21:13.690 [main] INFO  stepDefinitions.BaseClass - === Selecting User Role: ESS
+17:21:14.768 [main] INFO  stepDefinitions.BaseClass - ===  Selecting Status: Enabled
+17:21:15.177 [main] INFO  stepDefinitions.BaseClass - Entering Employee Name: profile emp name  and Username: Demo21234321
+17:21:20.715 [main] INFO  stepDefinitions.BaseClass - Entering details true
+17:21:20.718 [main] INFO  stepDefinitions.BaseClass - Entering password and confirm password
+17:21:21.032 [main] INFO  stepDefinitions.BaseClass - Clicking on Save button
+17:21:24.604 [main] INFO  stepDefinitions.BaseClass - Success message displayed: Successfully Saved
+17:21:24.604 [main] INFO  stepDefinitions.BaseClass - User added successfully - Test Passed
+17:21:24.607 [main] INFO  stepDefinitions.BaseClass - ===  browser close  ===
+12:59:39.880 [main] INFO  stepDefinitions.BaseClass - ========== START SCENARIO: successfully login in the orange demo website ==========
+12:59:39.918 [main] INFO  stepDefinitions.BaseClass - ====  Browser launch ===
+13:00:03.324 [main] INFO  stepDefinitions.BaseClass - === url open ====
+13:01:21.309 [main] INFO  stepDefinitions.BaseClass -  === enter username and passwd
+13:01:29.897 [main] INFO  stepDefinitions.BaseClass -  === click login button ===
+13:01:32.235 [main] INFO  stepDefinitions.BaseClass - ===  redriect to dashboard page ===
+13:01:33.102 [main] INFO  stepDefinitions.BaseClass -  === login successful
+13:01:33.108 [main] INFO  stepDefinitions.BaseClass - === click on profile ===
+13:01:33.248 [main] INFO  stepDefinitions.BaseClass - === click on logout === 
+13:01:40.074 [main] INFO  stepDefinitions.BaseClass - ===  logout done ===
+13:01:40.076 [main] INFO  stepDefinitions.BaseClass - ===  browser close  ===

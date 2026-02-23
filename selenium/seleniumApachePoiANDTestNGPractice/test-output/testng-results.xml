@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-15T14:26:38 IST" name="Default suite" finished-at="2026-02-15T14:26:47 IST" duration-ms="9533">
+    <groups>
+    </groups>
+    <test started-at="2026-02-15T14:26:38 IST" name="Default test" finished-at="2026-02-15T14:26:47 IST" duration-ms="9533">
+      <class name="testngPractice.LoginTestPractice">
+        <test-method signature="openWeb()[pri:1, instance:testngPractice.LoginTestPractice@4c402120]" started-at="2026-02-15T14:26:38 IST" name="openWeb" finished-at="2026-02-15T14:26:44 IST" duration-ms="6534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWeb -->
+        <test-method signature="login()[pri:2, instance:testngPractice.LoginTestPractice@4c402120]" started-at="2026-02-15T14:26:44 IST" name="login" finished-at="2026-02-15T14:26:47 IST" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="closeWeb()[pri:4, instance:testngPractice.LoginTestPractice@4c402120]" started-at="2026-02-15T14:26:47 IST" name="closeWeb" finished-at="2026-02-15T14:26:47 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWeb -->
+      </class> <!-- testngPractice.LoginTestPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

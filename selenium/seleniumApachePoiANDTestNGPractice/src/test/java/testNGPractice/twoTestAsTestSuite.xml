@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="testsuite">
+	<test name="sampletest">
+	
+		<classes>
+		<class name="testngPractice.Test1"></class>
+		<class name="testngPractice.LoginTestPractice"></class>
+		</classes>
+	</test>
+</suite>

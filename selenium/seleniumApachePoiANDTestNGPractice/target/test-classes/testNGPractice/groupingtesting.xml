@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="groupingtest">
+	<test name="testing">
+	
+	<!-- <groups>
+		<run>
+		<include name="functional"></include>
+		</run>
+	</groups>  only funcation which both sanity and regresion have -->
+	
+	<!-- <groups>
+		<run>
+		<include name="sanity"></include>
+		</run>
+	</groups>  all sanity which include combine sanity -->
+	
+		<!-- <groups>
+		<run>
+		<include name="regression"></include>
+		
+		</run>
+	</groups>  all regression which include combine regression -->
+	
+	<!--  <groups>
+		<run>
+		<include name="sanity"></include>
+		<exclude name="regression"></exclude>
+		</run>
+	</groups>  only sanity not include combine-->
+	
+	<!--  <groups>
+		<run>
+		<exclude name="sanity"></exclude>
+		<include name="regression"></include>
+		</run>
+	</groups>  only regression not include combine-->
+	
+	
+	
+	<classes>
+	<class name="testngPractice.Group1demo"></class>
+	<class name="testngPractice.Group2Demo"></class>
+	<class name="testngPractice.Group3Demo"></class>
+	
+	</classes>
+	</test>
+
+</suite>
