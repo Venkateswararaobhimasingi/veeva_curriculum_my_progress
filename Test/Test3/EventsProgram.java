@@ -64,9 +64,13 @@ public class EventsProgram {
             }
              //sc.nextLine();
         }
-        for(int i=0;i<pq.size();i++){
-            Node t=pq.poll();
-            System.out.println(t.event+" "+t.id+" "+t.name+" "+t.cgpa+" "+t.score);
+        if (pq.isEmpty()) {
+            System.out.println("EMPTY");
+        } else {
+            while (!pq.isEmpty()) {
+                Node t = pq.poll();
+                System.out.println(t.name);
+            }
         }
 
        

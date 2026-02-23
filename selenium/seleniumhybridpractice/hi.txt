@@ -1,0 +1,11 @@
+tips
+in floder cmd do 
+git fetch --all
+
+
+git branch --show-current
+
+
+git merge origin/main --allow-unrelated-histories
+
+git push origin master
