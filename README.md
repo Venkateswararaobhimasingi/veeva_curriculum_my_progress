@@ -49,6 +49,9 @@ From this date onward, all my learning activities, practice tasks, notes, and pr
 
 ---
 
+## selenium 
+-  29/01/2026  to 18/02/2026 : In this include the TestNG, Apache POI, Cucumber , Extend Reports, Log4j2.
+
 ## 🎯 Purpose of This Repository
 
 - Track my **daily learning progress**

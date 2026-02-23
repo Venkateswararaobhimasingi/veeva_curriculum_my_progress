@@ -31,13 +31,13 @@ public class EventsProgram {
             else if(!(a.name).equals(b.name)){
                 for(int i=0;i<Math.min(a.name.length(),b.name.length());i++){
                     if(a.name.charAt(i)!=b.name.charAt(i)){
-                        return b.name.charAt(i)-a.name.charAt(i);
+                        return a.name.charAt(i)-b.name.charAt(i);
                     }
                 }
-                return b.name.length()-a.name.length();
+                return a.name.length()-b.name.length();
             }
             else{
-                return b.id-a.id;
+                return a.id-b.id;
             }
         });
         int id=101;
